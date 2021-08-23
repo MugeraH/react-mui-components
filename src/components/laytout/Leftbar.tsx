@@ -5,13 +5,13 @@ import {
   Home,
   List,
   Person,
-  PhotoCamera,
+ 
   PhotoCameraOutlined,
   Settings,
   Storefront,
   TabletMac,
 } from "@material-ui/icons";
-import React, { useState } from "react";
+import React from "react";
 
 const useStyles = makeStyles((theme) => ({
   container: {
